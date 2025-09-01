@@ -3,7 +3,7 @@
 <!--database config-->
 <configs>
   <location>2</location>
-  <path>D:\DATA\TRT\11527-01\TRTSystem3.3.0.0\Database</path>
+  <path>D:\11527-01\TRTSystem3.3.0.0\Database</path>
   <filename>0467TRTDatabase.mdb</filename>
   <centerid>0467</centerid>
   <centername>บริษัท ทำนุรัฐไตเทียม จำกัด(ร.พ.ค่ายเสนาณรงค์)</centername>
