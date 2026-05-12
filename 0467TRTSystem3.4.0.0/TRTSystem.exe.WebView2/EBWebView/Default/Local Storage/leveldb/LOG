@@ -1,2 +1,3 @@
-2026/05/09-13:04:48.997 2098 Creating DB D:\11527-01\0467TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
-2026/05/09-13:04:49.629 2098 Reusing MANIFEST D:\11527-01\0467TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/12-12:31:29.535 814 Reusing MANIFEST D:\11527-01\0467TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/12-12:31:29.596 814 Recovering log #3
+2026/05/12-12:31:29.605 814 Reusing old log D:\11527-01\0467TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
